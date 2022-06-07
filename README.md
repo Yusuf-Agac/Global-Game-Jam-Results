@@ -1,6 +1,9 @@
 # Global_Game_Jam_Results_Unity
 Remote Controller lost his batteries. Help him to find his batteries.
 
+Gamejam's concept was search for something so we developed an advanture
+game where a tv remote searches for its own batterys. We came 3rd in a sub-branch
+
 Art:Umut Arda KAPLAN
 
 Code:Yusuf AGAC
